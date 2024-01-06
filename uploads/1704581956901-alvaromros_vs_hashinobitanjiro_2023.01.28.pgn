@@ -1,0 +1,17 @@
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2023.01.28"]
+[Round "?"]
+[White "alvaromros"]
+[Black "hashinobitanjiro"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "724"]
+[BlackElo "722"]
+[Termination "alvaromros ha ganado por jaque mate"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f6 4. d5 c6 5. c4 Nh6 6. h3 b5 7. cxb5 cxb5 8. Bxb5+
+Bd7 9. Bc4 Be7 10. O-O O-O 11. Nbd2 Qa5 12. Nh4 Ba4 13. b3 Bd7 14. Ndf3 f5 15.
+g3 fxe4 16. Bxh6 gxh6 17. Nd2 h5 18. Qxh5 Qd8 19. Nxe4 Bc8 20. Kg2 Bf6 21. Nf5
+Bxf5 22. Qxf5 a6 23. Qe6+ Rf7 24. Qg4+ Kf8 25. h4 Raa7 26. h5 h6 27. Qg6 Rh7 28.
+Nxf6 Raf7 29. Nxh7+ Ke7 30. Qe6# 1-0
